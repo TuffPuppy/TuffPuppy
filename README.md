@@ -11,7 +11,13 @@ Computer science graduate focused on cybersecurity, Linux systems, detection eng
 - Linux administration skills (RHCSA path)
   
 🤖 Technologies
--Java -SQL -Git -Github -Linux(RHEL) -Splunk
+-Java
+-HTML/CSS
+-SQL 
+-Git 
+-Github 
+-Linux(RHEL) 
+-Splunk
 
   You should check out my Splunk SOC repository where I simulated attacks and used custom SPL detections and alerts:  
 [Splunk SOC Lab](https://github.com/TuffPuppy/splunk-soc-lab)
