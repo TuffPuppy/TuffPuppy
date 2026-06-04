@@ -12,6 +12,7 @@ Computer science graduate focused on cybersecurity, Linux systems, detection eng
   
 🤖 Technologies
 -Java
+-Python
 -HTML/CSS
 -SQL 
 -Git 
